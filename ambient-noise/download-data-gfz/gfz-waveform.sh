@@ -1,0 +1,11 @@
+fdsnws_fetch -N 'GE' -S 'BKB' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/BKB.mseed
+fdsnws_fetch -N 'GE' -S 'BNDI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/BNDI.mseed
+fdsnws_fetch -N 'GE' -S 'FAKI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/FAKI.mseed
+fdsnws_fetch -N 'GE' -S 'GENI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/GENI.mseed
+fdsnws_fetch -N 'GE' -S 'JAGI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/JAGI.mseed
+fdsnws_fetch -N 'GE' -S 'LUWI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/LUWI.mseed
+fdsnws_fetch -N 'GE' -S 'PLAI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/PLAI.mseed
+fdsnws_fetch -N 'GE' -S 'SANI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/SANI.mseed
+fdsnws_fetch -N 'GE' -S 'SAUI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/SAUI.mseed
+fdsnws_fetch -N 'GE' -S 'TNTI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/TNTI.mseed
+fdsnws_fetch -N 'GE' -S 'TOLI2' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -v -o gfz-waveforms/TOLI2.mseed

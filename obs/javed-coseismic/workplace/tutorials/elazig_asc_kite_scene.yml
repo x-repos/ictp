@@ -1,0 +1,37 @@
+%YAML 1.1
+# kite.Scene YAML Config
+--- !kite.scene.SceneConfig
+meta: !kite.scene.Meta
+  scene_title: Unnamed Scene
+  scene_id: None
+  satellite_name: Undefined Mission
+  orbital_node: Undefined
+  time_master: '2016-12-07 13:09:21.93057394'
+  time_slave: '2016-12-20 13:08:45.482000113'
+  filename: /mnt/c/Tutorials/data/20190916_20190928.geo.unw.tif
+frame: !kite.scene.FrameConfig
+  llLat: 33.0
+  llLon: 73.6
+  dN: 0.0010000000000000141
+  dE: 0.001000000000000038
+  spacing: degree
+quadtree: !kite.quadtree.QuadtreeConfig
+  correction: median
+  epsilon: 0.02
+  nan_allowed: 0.5
+  tile_size_min: 0.0001
+  tile_size_max: 0.01
+covariance: !kite.covariance.CovarianceConfig
+  model_function: exponential
+  sampling_method: spatial
+  spatial_bins: 75
+  spatial_pairs: 200000
+  adaptive_subsampling: true
+aps: !kite.aps.APSConfig
+  applied: false
+gacos: !kite.gacos.GACOSConfig
+  applied: false
+polygon_mask: !kite.scene_mask.PolygonMaskConfig
+  applied: true
+deramp: !kite.deramp.DerampConfig
+  applied: false

@@ -1,0 +1,11 @@
+fdsnws_fetch -N 'GE' -S 'BKB' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/BKB.xml
+fdsnws_fetch -N 'GE' -S 'BNDI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/BNDI.xml
+fdsnws_fetch -N 'GE' -S 'FAKI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/FAKI.xml
+fdsnws_fetch -N 'GE' -S 'GENI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/GENI.xml
+fdsnws_fetch -N 'GE' -S 'JAGI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/JAGI.xml
+fdsnws_fetch -N 'GE' -S 'LUWI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/LUWI.xml
+fdsnws_fetch -N 'GE' -S 'PLAI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/PLAI.xml
+fdsnws_fetch -N 'GE' -S 'SANI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/SANI.xml
+fdsnws_fetch -N 'GE' -S 'SAUI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/SAUI.xml
+fdsnws_fetch -N 'GE' -S 'TNTI' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/TNTI.xml
+fdsnws_fetch -N 'GE' -S 'TOLI2' -L '*' -C 'BHZ' -s '2014-12-01T00:00:00' -e '2016-12-31T00:00:00' -y station -q level=response -v -o gfz-stations/TOLI2.xml
