@@ -1,0 +1,11 @@
+#!/bin/bash
+# gmt begin [name]
+# gmt end show
+
+gmt basemap -R1/10000/1e20/1e25 -JX9il/6il -B -pdf GMT_tut_2
+
+
+# | piping
+# > redirection
+# * ? wild cards
+# -B, -J, -R important options

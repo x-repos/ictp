@@ -1,0 +1,16 @@
+BEGIN PGP MESSAGE
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+{"valid_until": "2023-06-28T15:22:24.010509Z", "cn": "Hoang Anh Nguyen", "memberof": "/", "sn": "Nguyen", "issued": "2023-05-29T15:22:24.010514Z", "mail": "hoanganh_nguyen@mines.edu", "givenName": "Hoang Anh", "expiration": "1m"}
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJkdMMwAAoJEEFpzp0AlwdXTdEH/29T/vp5VCKSfB3UOK2tFB38
+RtWfNLXFmYMlk/jqVAeEWeBtcZm+Kh8jkzcBtlxjxH/kLoAzDRiSr4UQBE0IG6Hr
+FZfAi8P/sZlvVuqM5aPMz6X1Kdd0brJTSteLQa2OThg9d1vByzqL/gmRrnJlKHAd
+2WxJYi0CXevFqtBcr+XeacQlq3SAbLjOk1DM1RbqCLgT+hd6FI/eH3IQp+U3k14T
+Lz20Q39Vidje0QmUPiALAIR7b84C5oP/nXEijAT1VMhsA9raAiLLbn0vg8NOYVRL
+DnyM789fJfwpyqDJOLgMAJdEfXFr61xtDIdAvcFKbciRtcyPyJEsvwzTyuMODZU=
+=J4ef
+-----END PGP SIGNATURE-----
